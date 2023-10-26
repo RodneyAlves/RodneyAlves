@@ -7,7 +7,7 @@
 
 - 📫 Você me acha através do Linkedin **https://www.linkedin.com/in/rodney-alves-1074a8252/**
 
-- 📊 Projeto Portfólio: https://abrir.link/gJ6mi
+- 📊 Projeto Portfólio: **https://abrir.link/gJ6mi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
