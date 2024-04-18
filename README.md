@@ -1,7 +1,7 @@
 <h1 align="center">oi 👋, Sou o Rodney Alves</h1>
 <h3 align="center">Analista de dados focado em traduzir números em estratégias eficazes.</h3>
 
-- 🌱 Atualmente estou aprendendo **Phyton e bigdata**
+- 🌱 Atualmente estou aprendendo **Python, Machine Learning e bigdata**
 
 - 💬 Me pergunte Sobre **PowerBI,Google BigQuery, SQL, Excel**
 
