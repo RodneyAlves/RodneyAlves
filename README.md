@@ -1,9 +1,9 @@
 <h1 align="center">oi 👋, Sou o Rodney Alves</h1>
 <h3 align="center">Analista de dados focado em traduzir números em estratégias eficazes.</h3>
 
-- 🌱 Atualmente estou aprendendo **Python, Machine Learning e bigdata**
+- Analise de dados voltados para o mercado de Real State.
 
-- 💬 Me pergunte Sobre **PowerBI,Google BigQuery, SQL, Excel**
+- 💬 Me pergunte Sobre ** Excel, Python, PowerBI, I.A.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
