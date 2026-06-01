@@ -1,5 +1,5 @@
 <h1 align="center">oi 👋, Sou o Rodney Alves</h1>
-<h3 align="center">Analista de dados focado em traduzir números em estratégias eficazes.</h3>
+<h3 align="center">Analista de dados</h3>
 
 - Analise de dados voltados para o mercado de Real State.
 
