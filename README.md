@@ -1,7 +1,7 @@
 <h1 align="center">oi 👋, Sou o Rodney Alves</h1>
 <h3 align="center">Analista de dados</h3>
 
-- Analise de dados voltados para o mercado de Real State.
+- Analise de dados voltados para o mercado de Real Estate.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
